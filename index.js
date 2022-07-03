@@ -26,7 +26,7 @@ const listOfProducts = [
   },
 ];
 
-
+//first question answer
 console.log(getUniqueProductCount(listOfProducts));
 function getUniqueProductCount(listOfProducts) {
   let obj = {};
